@@ -87,7 +87,7 @@ function Dashboard() {
           <div className='user-wrapper'>
             <img src='assets/images/avatar.png' width='52px' />
             <div>
-              <h4>Mavia Ali</h4>
+              <h4>Muhammad Affan</h4>
               <small>Super admin</small>
             </div>
           </div>
