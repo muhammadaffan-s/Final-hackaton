@@ -155,7 +155,7 @@ function Dashboard() {
           <div className='cards'>
             <div className='card-single'>
               <div>
-                <h1>54</h1>
+                <h1>17</h1>
                 <span>Customers</span>
               </div>
               <div>
@@ -165,7 +165,7 @@ function Dashboard() {
 
             <div className='card-single'>
               <div>
-                <h1>79</h1>
+                <h1>65</h1>
                 <span>Projects</span>
               </div>
               <div>
@@ -175,7 +175,7 @@ function Dashboard() {
 
             <div className='card-single'>
               <div>
-                <h1>79</h1>
+                <h1>46</h1>
                 <span>Orders</span>
               </div>
               <div>
